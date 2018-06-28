@@ -8,7 +8,7 @@ author: nick
 
 Telescope is a knowledge gathering & search platform for information security beginner. 
 
-[TOC]
+
 
 ## Update Rules
 
